@@ -1,0 +1,18 @@
+User-agent: *
+allow: /
+
+User-agent: Googlebot
+allow: /
+
+User-agent: Googlebot-Image
+allow: /
+
+User-agent: Googlebot-Video
+allow: /
+
+User-agent: Googlebot-Mobile
+allow: /
+
+sitemap: https://eventopackage.com/sitemap.xml
+sitemap: https://eventopackage.com/imagesitemap.xml
+sitemap: https://eventopackage.com/pagesitemap.xml
